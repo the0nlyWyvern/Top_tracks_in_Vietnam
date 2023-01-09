@@ -1,4 +1,6 @@
-# TOP TRACKS IN VIETNAM (ft. Spotify)
+# Top tracks in Vietnam (ft. Spotify)
+
+<img src="./screenshots/Spotify_logo.jpg" alt="Spotify logo" width="100%">
 
 ## Description
 
