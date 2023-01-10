@@ -11,7 +11,7 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 1TPQApxiS5nzKdleTnU1L1,Trích Đoạn Máu Nhuộm Sân Chùa,Vọng Cổ Việt Nam,88,[],Trích Đoạn Máu Nhuộm Sân Chùa,2021-10-11,1,698,False,7
 2TqjLbM2E5I4ce6iWTdXly,Hơn Em Chỗ Nào,Thùy Chi,476915,"['v-pop', 'vietnamese singer-songwriter']",Hơn Em Chỗ Nào,2022-12-05,2,296,False,54
 69EwGs863aPS8olgCWtZ8J,Phiến Lá Tĩnh Lặng,Thùy Chi,476915,"['v-pop', 'vietnamese singer-songwriter']",Phiến Lá Tĩnh Lặng,2021-04-20,1,308,False,46
-5bV1PnXi6B8kYl1OIUZKlu,"Giữ Em Đi - From ""Mùa Oải Hương Năm Ấy""",Thùy Chi,476915,"['v-pop', 'vietnamese singer-songwriter']",Mua Oai Huong Nam Ay - Lavender's Love Story (Original Television Soundtrack),2014,2,284,False,43
+5bV1PnXi6B8kYl1OIUZKlu,"Giữ Em Đi - From ""Mùa Oải Hương Năm Ấy""",Thùy Chi,476915,"['v-pop', 'vietnamese singer-songwriter']",Mua Oai Huong Nam Ay - Lavender's Love Story (Original Television Soundtrack),2014-01-01,2,284,False,43
 2iTzIxM3EcXXnWYyqnwbZ6,Xe Đạp,Thùy Chi,476915,"['v-pop', 'vietnamese singer-songwriter']",Tuổi Hoa Mộng,2017-09-25,12,285,False,43
 7iYjIqTrM9fdncKjuDVnOa,Quê Tôi,Thùy Chi,476915,"['v-pop', 'vietnamese singer-songwriter']",The Best Of Thùy Chi 3,2017-05-31,9,270,False,39
 1QoEs95UcKglqpcYx6qam1,Con Đường Hạnh Phúc,Thùy Chi,476915,"['v-pop', 'vietnamese singer-songwriter']",The Best Of Thùy Chi 2,2012-12-15,14,303,False,37
@@ -110,7 +110,7 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 0sGOGCDOTwcKtdgeUcaIAQ,Cây Vĩ Cầm,Phạm Linh Phương,74,[],Cây Vĩ Cầm,2021-03-16,1,314,False,2
 7LVrrX8pkzI9fMF88nGabt,Đi Về Nhà,Đen,2916296,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese trap']",Đi Về Nhà,2020-12-20,1,200,False,63
 25edeHHueINMguqu9emCyV,Lối Nhỏ,Đen,2916296,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese trap']",Lối Nhỏ,2019-10-21,1,253,False,60
-2nR51wakN5K3AJENqGaNg9,Bài Này Chill Phết,Đen,2916296,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese trap']",Bài Này Chill Phết,2019,1,276,False,57
+2nR51wakN5K3AJENqGaNg9,Bài Này Chill Phết,Đen,2916296,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese trap']",Bài Này Chill Phết,2019-01-01,1,276,False,57
 2zRzmGerfTxc2epZHgaTdh,Cho Tôi Lang Thang,Đen,2916296,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese trap']",Cho Tôi Lang Thang,2018-03-27,1,259,False,56
 28ncfVOBRp3HGweSZ6Wb8C,Đưa Nhau Đi Trốn - Chill Version,Đen,2916296,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese trap']",Đưa Nhau Đi Trốn (Chill Version),2015-09-11,1,242,False,54
 2FWBdovgRvBSzA1JESUe0D,Làm Gì Phải Hốt,Đen,2916296,"['indie viet', 'v-pop', 'vietnamese hip hop', 'vietnamese trap']",Làm Gì Phải Hốt,2020-01-05,1,189,False,54
@@ -139,14 +139,14 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 0Rx4GFPy8ISxPhRwkjl64b,"ex's hate me, Pt. 2",AMEE,835072,['v-pop'],dreAMEE,2020-06-28,10,216,False,49
 0vB6E5gTZtnpodQCCW29JN,sao anh chưa về nhà,AMEE,835072,['v-pop'],dreAMEE,2020-06-28,10,244,False,48
 1PSmJr2mHzDjYXrKvQPKb0,nàng thơ... trời giấu trời mang đi,AMEE,835072,['v-pop'],dreAMEE (acoustic),2020-12-15,7,262,False,46
-354E1xZkLi3eBxBDtWSNvW,Vong cô,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995,8,371,False,0
-08E0EtXxcvuQpcbXbh4I7I,"Nam xuân, nam ai, trông ai",Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995,8,310,False,0
-2MGOKjZEgWwH6oleRUzUKV,Dep dam giao dâu,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995,8,334,False,0
-1PIeZEYgNYc0v0gYHfNQAH,Châu Van (Chants de possession),Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995,8,502,False,0
-5pOq4A13Xg320WUhdqkt1H,Trông Phu Thuy (Le tambour du sorcier),Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995,8,153,False,0
-1VJcSOOAQ1bid3jZJdhqlU,Tam tâu tuông,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995,8,457,False,0
-4uDVcxbYV0T3x3tH2JI8OQ,Pièce xang xê,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995,8,368,False,0
-6an9ogjrl8hethVLX29D3Q,Solo de six tambourins,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995,8,201,False,0
+354E1xZkLi3eBxBDtWSNvW,Vong cô,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995-01-01,8,371,False,0
+08E0EtXxcvuQpcbXbh4I7I,"Nam xuân, nam ai, trông ai",Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995-01-01,8,310,False,0
+2MGOKjZEgWwH6oleRUzUKV,Dep dam giao dâu,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995-01-01,8,334,False,0
+1PIeZEYgNYc0v0gYHfNQAH,Châu Van (Chants de possession),Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995-01-01,8,502,False,0
+5pOq4A13Xg320WUhdqkt1H,Trông Phu Thuy (Le tambour du sorcier),Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995-01-01,8,153,False,0
+1VJcSOOAQ1bid3jZJdhqlU,Tam tâu tuông,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995-01-01,8,457,False,0
+4uDVcxbYV0T3x3tH2JI8OQ,Pièce xang xê,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995-01-01,8,368,False,0
+6an9ogjrl8hethVLX29D3Q,Solo de six tambourins,Théâtre National du Viet-Nam,54,"['viet instrumental', 'vietnamese traditional']",Viet-Nam : Instruments et ensembles de musique traditionnelle,1995-01-01,8,201,False,0
 7Br6PQJCgYPakqTaQZ5nnx,Cô Gái Việt Nam,Khả Ngân,463,[],Cô Gái Việt Nam,2020-01-01,1,198,False,12
 1F5v0nQRyMeGPbBYwWNVAO,"Em Đau Lòng Thế, Anh Vừa Lòng Chưa",Khả Ngân,463,[],"Em Đau Lòng Thế, Anh Vừa Lòng Chưa",2020-08-07,1,274,False,9
 3U5WFUIgOaA1U7GdTs4yjQ,Va Vào Giai Điệu Này (feat. RPT MCK),RAP VIỆT,959408,"['v-pop', 'vietnamese hip hop', 'vietnamese melodic rap']",Rap Việt Tập 15,2020-11-08,8,197,False,51
@@ -212,7 +212,7 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 04iqmTqWUXyDW4vbJyozON,Mơ Màng,Oplus Band,505,[],Smooth,2017-05-25,8,234,True,1
 5cvW3PYJeQjRTnj9vHP5Va,Cà Phê,MIN,849158,['v-pop'],50/50,2022-03-21,8,191,False,61
 4zFgUpC8z88A9aEo7dnRPN,Trên Tình Bạn Dưới Tình Yêu,MIN,849158,['v-pop'],50/50,2022-03-21,8,199,False,58
-2nR51wakN5K3AJENqGaNg9,Bài Này Chill Phết,MIN,849158,['v-pop'],Bài Này Chill Phết,2019,1,276,False,57
+2nR51wakN5K3AJENqGaNg9,Bài Này Chill Phết,MIN,849158,['v-pop'],Bài Này Chill Phết,2019-01-01,1,276,False,57
 2anWKmV4Je8175CHvemHV9,để tôi ôm em bằng giai điệu này,MIN,849158,['v-pop'],để tôi ôm em bằng giai điệu này,2022-12-21,1,265,False,56
 4tjWbnuqRtd1VIdPqiSSkn,"Đừng Yêu Nữa, Em Mệt Rồi",MIN,849158,['v-pop'],"Đừng Yêu Nữa, Em Mệt Rồi",2019-04-19,1,281,False,55
 4z623zW86trE9SxAtIf0Gm,Hôn Anh,MIN,849158,['v-pop'],Hôn Anh,2017-07-13,1,234,False,55
@@ -253,7 +253,7 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 0Tve0OwXAb8JNE1fGoCUaU,Một Đêm,Vicky Nhung,33378,['v-pop'],Một Đêm,2021-05-22,1,230,False,37
 0eQDdmJ4Xm0huKjR1gJAKy,"Hoa Nào Anh Quên (Lofi) - From ""Chill With Vicky Nhung - Season 2: Memory""",Vicky Nhung,33378,['v-pop'],"Hoa Nào Anh Quên (Lofi) [From ""Chill With Vicky Nhung - Season 2: Memory""]",2021-09-11,1,252,False,36
 1qfBczF9bLnI82oqArdO1r,Ngôi Nhà Hoa Hồng Mashup Mỗi Người Một Nơi - Mashup7,Vicky Nhung,33378,['v-pop'],Ngôi Nhà Hoa Hồng Mashup Mỗi Người Một Nơi (Mashup7),2020-12-25,1,305,False,36
-2ZTCXuXxx39wghKsi0aHJm,Việt Nam Những Chuyến Đi,Vicky Nhung,33378,['v-pop'],Việt Nam Những Chuyến Đi,2017,1,216,False,36
+2ZTCXuXxx39wghKsi0aHJm,Việt Nam Những Chuyến Đi,Vicky Nhung,33378,['v-pop'],Việt Nam Những Chuyến Đi,2017-01-01,1,216,False,36
 2VHXCihhlSC2lUFoCaemRN,Yêu Người Có Ước Mơ,buitruonglinh,124322,"['indie viet', 'v-pop']",Bài Hát Hay Nhất - Big Song Big Deal (Tập 6),2022-11-07,5,284,False,59
 4Iz5EWPCAT8jYNk4IpLoll,Dù Cho Mai Về Sau,buitruonglinh,124322,"['indie viet', 'v-pop']",Dù Cho Mai Về Sau,2020-11-17,2,234,False,58
 27F22WcGDyl4Z2KylVJkXL,Đường Tôi Chở Em Về,buitruonglinh,124322,"['indie viet', 'v-pop']",Đường Tôi Chở Em Về,2020-07-03,1,266,False,56
@@ -316,23 +316,23 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 0xetRPC4o04YR1dP6qws6U,Em Hát Ai Nghe - Lofi,Orange,230998,['v-pop'],Em Hát Ai Nghe (Lofi),2021-08-23,1,200,False,46
 6PZ4fBBsfcCxyo0v5H4fri,Mặt Trời Khóc,Orange,230998,['v-pop'],Mặt Trời Khóc,2022-07-15,1,227,False,45
 2ETSln0Bo4ELK3F9TW2cUH,Chân Ái,Orange,230998,['v-pop'],Chân Ái,2020-04-15,2,263,False,41
-4Ez7JrJADo5Gm259Nunu7d,08 - Loi doi dom hoa (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001,9,390,False,0
-6jEqc6yCM13zDhA6t32QVC,03 - Nghia kim bang (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001,9,366,False,0
-2m3hYegIBjQ2DoAiQjjqIc,02 - Trong loan Thang Long Thanh (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001,9,386,False,0
-0hiPFgWHV8QH4TqbCN5065,09 - Em toi lam chieu dai (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001,9,377,False,0
-47PwW9dw7QNbPIXEZAMaop,01 - To Vo chan de (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001,9,375,False,0
-1fIHuxhPOEMeJg4L668YkI,04 - Ngoai troi giong bao (Minh Canh-Minh Chi-Dieu Hien),Ca co Viet Nam,311,[],Chuong trinh ca co,2001,9,754,False,0
-4aFy9rd2oVWbFygp78eDoJ,06 - Ly ruou doan vien (Minh Canh-Ngoc Huong),Ca co Viet Nam,311,[],Chuong trinh ca co,2001,9,391,False,0
-6GJX8fXqhlVbfWCf5YCkFc,07 - Nguoi gac cong (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001,9,351,False,0
-0yvdCmZIsPoc3dspR55xbe,05 - Dua con dat nuoc (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001,9,381,False,0
-0VBv6oyMgeEBOIysaSV9aE,Anh Ơi Ở Lại,Chi Pu,294795,['v-pop'],Anh Ơi Ở Lại,2019,1,292,False,50
+4Ez7JrJADo5Gm259Nunu7d,08 - Loi doi dom hoa (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001-01-01,9,390,False,0
+6jEqc6yCM13zDhA6t32QVC,03 - Nghia kim bang (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001-01-01,9,366,False,0
+2m3hYegIBjQ2DoAiQjjqIc,02 - Trong loan Thang Long Thanh (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001-01-01,9,386,False,0
+0hiPFgWHV8QH4TqbCN5065,09 - Em toi lam chieu dai (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001-01-01,9,377,False,0
+47PwW9dw7QNbPIXEZAMaop,01 - To Vo chan de (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001-01-01,9,375,False,0
+1fIHuxhPOEMeJg4L668YkI,04 - Ngoai troi giong bao (Minh Canh-Minh Chi-Dieu Hien),Ca co Viet Nam,311,[],Chuong trinh ca co,2001-01-01,9,754,False,0
+4aFy9rd2oVWbFygp78eDoJ,06 - Ly ruou doan vien (Minh Canh-Ngoc Huong),Ca co Viet Nam,311,[],Chuong trinh ca co,2001-01-01,9,391,False,0
+6GJX8fXqhlVbfWCf5YCkFc,07 - Nguoi gac cong (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001-01-01,9,351,False,0
+0yvdCmZIsPoc3dspR55xbe,05 - Dua con dat nuoc (Minh Canh),Ca co Viet Nam,311,[],Chuong trinh ca co,2001-01-01,9,381,False,0
+0VBv6oyMgeEBOIysaSV9aE,Anh Ơi Ở Lại,Chi Pu,294795,['v-pop'],Anh Ơi Ở Lại,2019-01-01,1,292,False,50
 6YVDFHYt2YSkdkbAeqnAeH,คิดมาก - เพลงประกอบภาพยนตร์ Friend Zone ระวัง..สิ้นสุดทางเพื่อน,Chi Pu,294795,['v-pop'],เพลงประกอบภาพยนตร์ Friend Zone ระวัง..สิ้นสุดทางเพื่อน,2019-01-31,1,219,False,43
-7aEYnqqVpHpBLudfkhldf3,Shh! Chỉ Ta Biết Thôi - OST Chị Chị Em Em,Chi Pu,294795,['v-pop'],"Shh! Chỉ Ta Biết Thôi (From ""Chị Chị Em Em"")",2019,1,225,False,38
+7aEYnqqVpHpBLudfkhldf3,Shh! Chỉ Ta Biết Thôi - OST Chị Chị Em Em,Chi Pu,294795,['v-pop'],"Shh! Chỉ Ta Biết Thôi (From ""Chị Chị Em Em"")",2019-01-01,1,225,False,38
 4fx2Hs100AuN9qPsFj3fW7,Mời Anh Vào Team Em,Chi Pu,294795,['v-pop'],Mời Anh Vào Team Em,2018-11-27,1,195,False,38
 7euo1fcj711Kqy0jjltvgC,Nếu Mình Gần Nhau,Chi Pu,294795,['v-pop'],Nếu Mình Gần Nhau,2019-01-18,1,196,False,36
 5ZRsfmDqd04BcmCqJPB9AV,Cung Đàn Vỡ Đôi,Chi Pu,294795,['v-pop'],Cung Đàn Vỡ Đôi,2020-06-04,1,317,False,35
 4OIRRwrXdzMgpAyAo2HdI1,Cung Đàn Vỡ Đôi (Remix),Chi Pu,294795,['v-pop'],Cung Đàn Vỡ Đôi (Remix),2020-08-17,1,224,False,34
-2KUeIwhi6abtBTr2UcENzz,Talk To Me (Co Nen Dung Lai?),Chi Pu,294795,['v-pop'],Talk To Me (Co Nen Dung Lai?),2017,1,261,False,33
+2KUeIwhi6abtBTr2UcENzz,Talk To Me (Co Nen Dung Lai?),Chi Pu,294795,['v-pop'],Talk To Me (Co Nen Dung Lai?),2017-01-01,1,261,False,33
 1Qf8uhmyNubhiGOCcWeDPv,Black Hickey - Con Dấu Chủ Quyền,Chi Pu,294795,['v-pop'],Black Hickey (Con Dấu Chủ Quyền),2022-08-08,1,233,False,31
 48ogJnwdNJGgHj2aNZhZq6,Sashimi,Chi Pu,294795,['v-pop'],Sashimi,2022-09-09,1,232,False,31
 5ECHJ1llWBNYLVCYrllD3x,Chạy Khỏi Thế Giới Này,Da LAB,816570,"['indie viet', 'v-pop', 'vietnamese hip hop']",Chạy Khỏi Thế Giới Này,2022-06-30,1,255,False,64
@@ -508,24 +508,24 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 14iVYkidiiJUu2qCBIf8kb,Cứ Nói Yêu Lần Này (Speed Up) - Cukak Remix,Cukak,108114,['viet remix'],Cứ Nói Yêu Lần Này (Speed Up) [Cukak Remix],2022-09-15,1,168,False,36
 5Msoarj5hk9LguTtiIyqug,Ngày Đầu Tiên,Đức Phúc,854455,['v-pop'],Ngày Đầu Tiên,2022-02-11,1,209,False,60
 5Fmtix3LkYpcXI7nVFpEyC,"Quá Khứ Đôi, Hiện Tại Đơn",Đức Phúc,854455,['v-pop'],"Quá Khứ Đôi, Hiện Tại Đơn",2022-09-24,1,311,False,51
-1Gu3moX7qQp4t2jk6kJ0C6,Cũng Đành Thôi,Đức Phúc,854455,['v-pop'],Cũng Đành Thôi,2016,1,273,False,47
-7BSyMiUKDSXdnZ9wTmLPKv,Năm Ấy,Đức Phúc,854455,['v-pop'],Năm Ấy,0000,1,260,False,47
-2PZENjHdoBW7u1qLB1Twra,Yêu Được Không,Đức Phúc,854455,['v-pop'],Yêu Được Không,2019,1,332,False,44
+1Gu3moX7qQp4t2jk6kJ0C6,Cũng Đành Thôi,Đức Phúc,854455,['v-pop'],Cũng Đành Thôi,2016-01-01,1,273,False,47
+7BSyMiUKDSXdnZ9wTmLPKv,Năm Ấy,Đức Phúc,854455,['v-pop'],Năm Ấy,2017-12-22,1,260,False,47
+2PZENjHdoBW7u1qLB1Twra,Yêu Được Không,Đức Phúc,854455,['v-pop'],Yêu Được Không,2019-01-01,1,332,False,44
 1SlUGdFlL8KssF9yglckks,Cứ Thở Đi,Đức Phúc,854455,['v-pop'],Cứ Thở Đi,2022-05-27,1,225,False,43
 5YouPnnFSfNJPXgrWZ0P8C,Hơn Cả Yêu,Đức Phúc,854455,['v-pop'],Hơn Cả Yêu,2022-05-05,1,256,False,41
 5uye47llqkE8Oyn56Y3IkW,Nguoi Oi Nguoi O Dung Ve (feat. Suboi),Đức Phúc,854455,['v-pop'],Nguoi Oi Nguoi O Dung Ve (feat. Suboi),2020-09-27,1,200,False,40
-43VzVmdtLNVuTDLA5ajACT,Ta Còn Yêu Nhau,Đức Phúc,854455,['v-pop'],Ta Còn Yêu Nhau,2017,1,207,False,40
+43VzVmdtLNVuTDLA5ajACT,Ta Còn Yêu Nhau,Đức Phúc,854455,['v-pop'],Ta Còn Yêu Nhau,2017-01-01,1,207,False,40
 7teufwU5fNKeUkbAHZHjN4,Có Hẹn Với Thanh Xuân,Đức Phúc,854455,['v-pop'],"Trạm 1 - Xuân Hạ Thu Đông, rồi lại Xuân 2",2022-11-10,11,244,False,36
 4xalxj2hfKiU3Pws87fSeO,Yêu Sắc Yếu,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Yêu Sắc Yếu,2021-04-22,1,177,False,56
-1lk4eijOWwRJGR2BDakaJT,Người Âm Phủ,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Người Âm Phủ,2018,1,131,False,48
+1lk4eijOWwRJGR2BDakaJT,Người Âm Phủ,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Người Âm Phủ,2018-01-01,1,131,False,48
 47KahNBNjHtpTlJyU7hh33,có người đón em rồi..,Osad,248924,"['v-pop', 'vietnamese melodic rap']",có người đón em rồi..,2022-12-29,1,147,False,46
 6TkuthZivul62v9hJL5x8n,Lời Có Cánh,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Lời Có Cánh,2022-10-20,1,169,False,46
 44hsBA7SRBMRpNlhq87Fff,Lung Lay,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Lung Lay,2022-03-17,1,162,False,40
-3LlkrfYiAKpah2mngQ4r2o,Củ Lạc,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Củ Lạc,2018,1,210,False,39
+3LlkrfYiAKpah2mngQ4r2o,Củ Lạc,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Củ Lạc,2018-01-01,1,210,False,39
 68NwPtQoxprritFxZTKIPJ,Ghép Môi,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Ghép Môi,2022-10-13,1,210,False,39
 7sppnEHDyWGy4FpmnHE3Ys,Yêu Em Kiểu,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Yêu Em Kiểu,2022-11-03,1,155,False,39
 67L47FNr5hTduHLuWgVegY,Lung Lay - Remix,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Lung Lay (Remix),2022-03-23,1,150,False,38
-5NWdI1U4tfx45YtsBB6fLk,Em Nào Có Hay Anh Nhớ Thương,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Em Nào Có Hay Anh Nhớ Thương,2018,1,83,False,36
+5NWdI1U4tfx45YtsBB6fLk,Em Nào Có Hay Anh Nhớ Thương,Osad,248924,"['v-pop', 'vietnamese melodic rap']",Em Nào Có Hay Anh Nhớ Thương,2018-01-01,1,83,False,36
 1xoadYaxtOp9gHDwgmPDuz,Sài Gòn Hôm Nay Mưa,Hoàng Duyên,40802,['v-pop'],Sài Gòn Hôm Nay Mưa,2021-05-29,1,247,False,61
 6IkNu9xwCD3ei9gaAfbPXA,Sài Gòn Đau Lòng Quá,Hoàng Duyên,40802,['v-pop'],Sài Gòn Đau Lòng Quá,2021-03-28,1,309,False,50
 1qBhlpdpjgsevbE4FCe3KN,Heaven (feat. Hoàng Duyên),Hoàng Duyên,40802,['v-pop'],Heaven (feat. Hoàng Duyên),2022-05-30,2,194,False,40
@@ -603,7 +603,7 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 1uHrEy6Y2MCso5IHQTCJgA,Thân Mật,Kewtiie,2871,['vietnamese hip hop'],Thân Mật,2022-12-02,1,185,False,32
 5EYv6Jj1adjB8qilHiSC3t,Room 808,Kewtiie,2871,['vietnamese hip hop'],Room 808,2018-08-18,1,199,False,32
 45miQX0dDOcSLsua1MoXKq,Hennessy,Kewtiie,2871,['vietnamese hip hop'],Hennessy,2019-01-05,1,242,False,25
-54z6fOAjr6qpMeCoJ95nUD,Fortune,Kewtiie,2871,['vietnamese hip hop'],Fortune,2017,1,210,False,21
+54z6fOAjr6qpMeCoJ95nUD,Fortune,Kewtiie,2871,['vietnamese hip hop'],Fortune,2017-01-01,1,210,False,21
 38utW6Mz8K1lwMyp2HVFYy,What You Doin'?,Kewtiie,2871,['vietnamese hip hop'],What You Doin'?,2019-02-14,1,177,False,19
 5CDkoXJrlyhdM8sZOXn5Ae,Đổi Hạnh Phúc Lấy Cô Đơn,Song Luân,562,[],Đổi Hạnh Phúc Lấy Cô Đơn,2022-08-28,1,231,False,49
 77ceRHq8jfBFjKCWbudJfB,Giấu Đằng Sau,Song Luân,562,[],Giấu Đằng Sau,2017-09-09,1,274,False,20
@@ -659,12 +659,12 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 73fFRs03s0gtjggfMW213L,Ngã Tư Không Đèn,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Chỉ Có Thể Là Anh,2022-06-18,11,218,False,62
 3ckraK42KnTt0Mk0b8pmA2,Đâu Cần Một Bài Ca Tình Yêu,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Đâu Cần Một Bài Ca Tình Yêu,2019-09-19,2,196,False,48
 6lJiEbVzimBvvRgdaVfh2m,Một Ngày Mãi Mãi,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Một Ngày Mãi Mãi,2022-12-03,1,190,False,43
-2hol4J83m8pUa93iwzFwXX,Và Khi Ta Ngả Nghiêng,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Tỉnh Giấc Khi Ông Trời Đang Ngủ,2019,10,272,False,40
-4j7WS8erX8FFXgYxNvpjo2,Bụi Hoa Giấy,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Người Tình,2018,5,234,False,37
-5u2eQL1t0gZ01rGCyvnqBp,Thư Cho Anh,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Người Tình,2018,5,242,False,36
+2hol4J83m8pUa93iwzFwXX,Và Khi Ta Ngả Nghiêng,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Tỉnh Giấc Khi Ông Trời Đang Ngủ,2019-01-01,10,272,False,40
+4j7WS8erX8FFXgYxNvpjo2,Bụi Hoa Giấy,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Người Tình,2018-01-01,5,234,False,37
+5u2eQL1t0gZ01rGCyvnqBp,Thư Cho Anh,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Người Tình,2018-01-01,5,242,False,36
 1KpARGYI9TI9WsvmCvFbh6,Một Người Nhẹ Nhàng Hơn,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Chỉ Có Thể Là Anh,2022-06-18,11,241,False,35
 79DwA4Jg9vhxplziReNGxC,Chưa Được Yêu Như Thế,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Chỉ Có Thể Là Anh,2022-06-18,11,254,False,35
-6ljJNAUdnEgGpWULzqiS5J,Giữ Cho Em Một Thế Giới,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Giữ Cho Em Một Thế Giới,2019,1,122,False,35
+6ljJNAUdnEgGpWULzqiS5J,Giữ Cho Em Một Thế Giới,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Giữ Cho Em Một Thế Giới,2019-01-01,1,122,False,35
 6aHgd9wFzDZed8KnAqMLeD,Câu Trả Lời,TRANG,92924,"['indie viet', 'v-pop', 'vietnamese singer-songwriter']",Câu Trả Lời,2019-07-12,1,167,False,35
 6m1oexLqQpf9nbrkrHXOWc,từ chối nhẹ nhàng thôi,Bich Phuong,1189995,['v-pop'],tâm trạng tan hơi chậm một chút,2020-05-17,4,247,False,52
 0QrWEhI9Bb0MHQwfSIHfzL,em bỏ hút thuốc chưa (feat. traitimtrongvang),Bich Phuong,1189995,['v-pop'],tâm trạng tan hơi chậm một chút,2020-05-17,4,216,False,49
@@ -694,7 +694,7 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 28L64pcFeZY706DYM9dtmt,Khi ông mặt trời khóc,Tiên Tiên,392924,"['v-pop', 'vietnamese singer-songwriter']",Khi ông mặt trời khóc,2022-09-23,1,233,False,45
 08ypyqiix2pzF6RmOfz7Eq,My Everything,Tiên Tiên,392924,"['v-pop', 'vietnamese singer-songwriter']",My Everything,2015-09-19,3,198,False,45
 4bCuBkeVRofawnFkGu05fu,Cần Gì Hơn,Tiên Tiên,392924,"['v-pop', 'vietnamese singer-songwriter']",Cần Gì Hơn,2020-03-10,1,207,False,40
-3HXc9xqPIT3GzotV1eaVKa,Vì Tôi Còn Sống - 3rd Single 2015,Tiên Tiên,392924,"['v-pop', 'vietnamese singer-songwriter']",Vì Tôi Còn Sống,2015,1,238,False,39
+3HXc9xqPIT3GzotV1eaVKa,Vì Tôi Còn Sống - 3rd Single 2015,Tiên Tiên,392924,"['v-pop', 'vietnamese singer-songwriter']",Vì Tôi Còn Sống,2015-01-01,1,238,False,39
 06CMCUqcUkboddQh3qrMd4,Chắc Anh Đang,Tiên Tiên,392924,"['v-pop', 'vietnamese singer-songwriter']",Chắc Anh Đang,2018-09-19,2,191,False,36
 2xXhccBCgXADkx05KDi1hp,Bất Bình Thường,WHEE!,4203,"['indie viet', 'v-pop']",Bất Bình Thường,2020-04-01,2,209,False,58
 5sh8NLB5FULZqYZoLl1wac,Bất Chấp,WHEE!,4203,"['indie viet', 'v-pop']",Bất Chấp,2020-10-13,1,184,False,52
@@ -927,10 +927,10 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 0n6GPPMcNIheHTS3Si6Zfq,Giá Như Anh Ở Đây (Lofi),1 9 6 7,96067,['viet lo-fi'],Giá Như Anh Ở Đây (Lofi),2021-06-01,1,196,False,33
 1VZEVmvaGulgN3RmWJAdiH,Anh Yêu Vội Thế (Remix),1 9 6 7,96067,['viet lo-fi'],Anh Yêu Vội Thế (Remix),2022-04-12,1,225,False,33
 6zSKUu7FRFNkA0EDeoXtHv,Ngôi Nhà Hoa Hồng (Remix),1 9 6 7,96067,['viet lo-fi'],Ngôi Nhà Hoa Hồng (Remix),2021-09-01,1,168,False,30
-3rzrnu7aycggDrkiJFFhVl,Ba Kể Con Nghe,Nguyễn Hải Phong,1188,[],Ba Kể Con Nghe,2018,1,238,False,39
+3rzrnu7aycggDrkiJFFhVl,Ba Kể Con Nghe,Nguyễn Hải Phong,1188,[],Ba Kể Con Nghe,2018-01-01,1,238,False,39
 0cVJzC7KE0dhYqOd3m5Sha,Dòng Thời Gian - Metaplay R&B,Nguyễn Hải Phong,1188,[],"Tuyển Tập Các Ca Khúc Pop Và Acoustic Của Nguyễn Hải Phong, Vol. 4",2022-11-10,4,313,False,15
 7zmHsZAiErFKgbUssI9yHU,Sẽ Chiến Thắng (SEA Games 2022 Version),Nguyễn Hải Phong,1188,[],Sẽ Chiến Thắng (SEA Games 2022 Version),2022-05-22,1,307,False,13
-44to11j0W4SBLMViUXpSdo,Nơi Ấy,Nguyễn Hải Phong,1188,[],Nơi Ấy,2007,1,215,False,12
+44to11j0W4SBLMViUXpSdo,Nơi Ấy,Nguyễn Hải Phong,1188,[],Nơi Ấy,2007-01-01,1,215,False,12
 5KS6kT7zqvJ0K68XAvCpFn,Ngồi Hát Đỡ Buồn - Metaplay Acoustic,Nguyễn Hải Phong,1188,[],Ngồi Hát Đỡ Buồn (Metaplay Acoustic),2022-08-26,1,197,False,9
 6oGsMU1OZ167jCGthUGaub,Sẽ Chiến Thắng (SEA Games New Version Remix),Nguyễn Hải Phong,1188,[],Sẽ Chiến Thắng (SEA Games New Version Remix),2022-05-22,1,308,False,4
 0vJGSgyvxaJg4uC6qrzj5v,Nơi Ấy - Metaplay Lofi,Nguyễn Hải Phong,1188,[],Nơi Ấy (Metaplay Lofi),2022-08-23,1,236,False,4
@@ -1002,7 +1002,7 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 0uPBV4DBZ8okrsLyFlrL0V,Mashup Công Chúa Bong Bóng X Cô Gái Trung Hoa - The Heroes Version,My Anh,23280,"['indie viet', 'v-pop']",Mashup Công Chúa Bong Bóng X Cô Gái Trung Hoa (The Heroes Version),2021-06-09,1,256,False,23
 7sg896VBSLnqc4Ov2m7k9c,Chiện Tình Yên,My Anh,23280,"['indie viet', 'v-pop']",Ở NHÀ 2M,2022-10-17,6,235,False,21
 79DJNyUVaFcERcewOuTatf,|Nâng Niu| Cây Và Đất,My Anh,23280,"['indie viet', 'v-pop']","Nâng Niu Lắm, Thiên Nhiên Ơi - Touliver x Mỹ Anh x NESCAFÉ",2021-10-14,4,197,False,20
-3wn8HJNjkY4wzTBy35ZvQ6,bao tiền một mớ bình yên?,Bon Nghiêm,2074,[],bao tiền một mớ bình yên?,2020,1,300,False,65
+3wn8HJNjkY4wzTBy35ZvQ6,bao tiền một mớ bình yên?,Bon Nghiêm,2074,[],bao tiền một mớ bình yên?,2020-01-01,1,300,False,65
 5pecBfvm22kQON5STs5q45,có ai ở đây không? - Extended version,Bon Nghiêm,2074,[],có ai ở đây không? (Extended version),2021-10-08,1,330,False,42
 7zJ6yuuOnjjRqbKv1zfCAl,một đời (feat. buitruonglinh),Bon Nghiêm,2074,[],một đời (feat. buitruonglinh),2022-12-21,1,328,False,39
 6i4rBZgI9MrZvTutwDj6ii,Nói Em Không Tin,Bon Nghiêm,2074,[],Nói Em Không Tin,2022-09-07,1,257,False,35
@@ -1159,9 +1159,9 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 5d5ac88BIyFD682uABW8uR,Dắt Em Về Mặt Trăng,marzuz,3674,['rock viet'],Đến Đâu Từ Đây,2022-10-26,4,242,False,38
 2yalj90VHzXA1A8KqxHz0n,VÀ THẾ GIỚI ĐÃ MẤT ĐI MỘT NGƯỜI CÔ ĐƠN,marzuz,3674,['rock viet'],VÀ THẾ GIỚI ĐÃ MẤT ĐI MỘT NGƯỜI CÔ ĐƠN,2022-10-20,1,231,False,34
 5TnNZ1Fuj5jhn3RKWSvJXa,Mai,marzuz,3674,['rock viet'],Mai,2021-12-23,1,224,False,33
-6zFvGwetmNsAqau4xOPb2u,Nếu,marzuz,3674,['rock viet'],Nếu,2016,1,322,False,29
+6zFvGwetmNsAqau4xOPb2u,Nếu,marzuz,3674,['rock viet'],Nếu,2016-01-01,1,322,False,29
 5caIF8ecjzTnJp77mxomG7,3 PHÚT,marzuz,3674,['rock viet'],3 PHÚT,2022-10-05,1,188,False,21
-54z6fOAjr6qpMeCoJ95nUD,Fortune,marzuz,3674,['rock viet'],Fortune,2017,1,210,False,21
+54z6fOAjr6qpMeCoJ95nUD,Fortune,marzuz,3674,['rock viet'],Fortune,2017-01-01,1,210,False,21
 5ZUksPZKAC2JHk6FWmS7Lx,Sunday (with marzuz),marzuz,3674,['rock viet'],Sunday (with marzuz),2016-10-26,1,226,True,14
 5xOII8YWG2piavH4kpt1oU,Hai Chữ Đã Từng (Vinahouse),Như Việt,12405,"['viet edm', 'vinahouse']",Hai Chữ Đã Từng (Remix),2020-08-26,4,245,False,36
 5nlxmx6gW4s0nzzqoTYT9h,Bông Hoa Chẳng Thuộc Về Ta,Như Việt,12405,"['viet edm', 'vinahouse']",Bông Hoa Chẳng Thuộc Về Ta,2021-04-01,1,216,False,36
@@ -1223,7 +1223,7 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 4fiO7uD3j3B1rWdNTtWNmj,Hối Duyên,Khoi Vu,26019,['vietnamese hip hop'],Hối Duyên,2022-10-18,1,243,False,34
 3YPzHf9JHMpTyoTZOXiVAs,Ái Nộ (Remix),Khoi Vu,26019,['vietnamese hip hop'],Ái Nộ (Remix),2022-02-17,1,212,False,30
 3Kvv7fo6M0Hom1386GYLIz,Nhất Thân (Remix),Khoi Vu,26019,['vietnamese hip hop'],Nhất Thân (Remix),2022-02-23,1,225,False,29
-29V6rTcAjKY1ksUdbJd4gO,Yeu Lai Tu Dau,Khac Viet,245454,['v-pop'],Yeu Lai Tu Dau,2010,1,207,False,42
+29V6rTcAjKY1ksUdbJd4gO,Yeu Lai Tu Dau,Khac Viet,245454,['v-pop'],Yeu Lai Tu Dau,2010-01-01,1,207,False,42
 5Ss7wCp22FOAbfeg75KllJ,Chạy Về Nơi Phía Anh,Khac Viet,245454,['v-pop'],Chạy Về Nơi Phía Anh,2022-02-14,1,181,False,40
 35fUrrSoXd8hNN2RYaoyF3,Chi Anh Hieu Em,Khac Viet,245454,['v-pop'],Tuyen Tap Cac Ca Khuc Hay Nhat Cua Khac Viet,2019-12-10,10,272,False,35
 5dGczTAZ6SZvtU2d2LioyC,Anh Khac Hay Em Khac,Khac Viet,245454,['v-pop'],Tuyen Tap Cac Ca Khuc Hay Nhat Cua Khac Viet,2019-12-10,10,259,False,34
@@ -1377,8 +1377,8 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 3qPE5f5cqAMEv65EdoKYWr,Tinder 101,7UPPERCUTS,40506,['rock viet'],CHÁI MÁI,2020-11-19,6,90,False,41
 6oxM4HLv8YxVJ64nOhBMtY,Duma Song,7UPPERCUTS,40506,['rock viet'],CHÁI MÁI,2020-11-19,6,64,False,35
 4pUBJpwFYYGf6gdE593aat,Màu Áo Học Trò,7UPPERCUTS,40506,['rock viet'],CHÁI MÁI,2020-11-19,6,179,False,35
-6JxNqpA8ukdI7xR2TF6l1s,Early Summer Rain,7UPPERCUTS,40506,['rock viet'],Summer Jam,2018,9,46,False,34
-2fiXDAxacnkEowe8PfbRoz,Em Đéo Biết Nữa Anh Ơi,7UPPERCUTS,40506,['rock viet'],Summer Jam,2018,9,82,True,33
+6JxNqpA8ukdI7xR2TF6l1s,Early Summer Rain,7UPPERCUTS,40506,['rock viet'],Summer Jam,2018-01-01,9,46,False,34
+2fiXDAxacnkEowe8PfbRoz,Em Đéo Biết Nữa Anh Ơi,7UPPERCUTS,40506,['rock viet'],Summer Jam,2018-01-01,9,82,True,33
 1ak1TfinvG9VaFKwn98bSA,Loving You Sunny,Kimmese,25727,['vietnamese hip hop'],Loving You Sunny,2017-05-23,1,295,False,46
 2ePBZnZ9I824PlUdRYxWzA,Rapcoustic 5,Kimmese,25727,['vietnamese hip hop'],Rapcoustic 5,2019-10-10,1,547,False,43
 5aaY8s8X72TDkuNutmWqgl,Real Love,Kimmese,25727,['vietnamese hip hop'],Real Love,2012-03-24,1,220,False,41
@@ -1400,7 +1400,7 @@ id,name,artist,artist_followers,artist_genres,album,release_date,album_total_tra
 09o7pHaPyOYjB5PAUBoexJ,"LK Quốc An (Hát Với Dòng Sông, Hát Cho Người Ở Lại, Hát Cho Người Ra Đi)",Myra Trần,2010,[],Music Box 40: Thanh Xuân,2021-08-20,9,348,False,19
 4QQPFn8Xn4Ea7W5tOXSnyQ,Xuân Hồi Sinh,Myra Trần,2010,[],Xuân Ca,2022-01-21,13,279,False,18
 1egSj83G00A1G4rlRp6IyK,Đừng Như Thói Quen,JayKii,101615,['v-pop'],Đừng Như Thói Quen,2019-06-11,1,266,False,56
-2Uf4IUlGNFrCitvHKGJ6rW,Chiều Hôm Ấy,JayKii,101615,['v-pop'],Chiều Hôm Ấy,2017,1,309,False,50
+2Uf4IUlGNFrCitvHKGJ6rW,Chiều Hôm Ấy,JayKii,101615,['v-pop'],Chiều Hôm Ấy,2017-01-01,1,309,False,50
 5hV64QDsM2IiaUSeH5zlJ4,Sao Em Nỡ,JayKii,101615,['v-pop'],Gala Nhạc Việt 12: Nợ Ai Đó Lời Xin Lỗi,2018-09-18,14,238,False,39
 6PDtMGM0e7330PpN7T9QdS,Hay Ve Day Ben Anh,JayKii,101615,['v-pop'],Hay Ve Day Ben Anh,2019-07-19,1,281,False,36
 6Zt20XamCzXeAC38401oso,Càng Lớn Càng Cô Đơn,JayKii,101615,['v-pop'],Càng Lớn Càng Cô Đơn,2021-05-23,1,262,False,35
