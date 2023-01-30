@@ -13,7 +13,7 @@
     1. Q1: Which genre has inappropriate lyrics for children?
     2. Q2: Which genres is the most popular one (in terms of quantity and quality)?
     3. Q3: What are the songs that have been released for a long time but are still heard by many people at the present time?
-    4. Q4: Question 4: For each song length, what is the average popularity score of the songs?
+    4. Q4: For each song length, what is the average popularity score of the songs?
 
 # Data source
 
