@@ -1,67 +1,51 @@
-# Top tracks in Vietnam (ft. Spotify)
+# Top tracks and artists in Vietnam <img src="./screenshots/spotify-logo.png" alt="Spotify logo" width="30px">
 
-<img src="./screenshots/Spotify_logo.jpg" alt="Spotify logo" width="100%">
+# Description
 
-## Description
+-   A final project in _Data Science Programming_ (University of Science).
+-   Finding insight and making decision based on dataset.
 
-- A project in _Data Science Programming_ (University of Science)
+# Table of Contents
 
-## Table of Contents
+1. Craw data using APIs
+2. Cleaning the data
+3. Explore the data
+    1. Q1: Which genre has inappropriate lyrics for children?
+    2. Q2: Which genres is the most popular one (in terms of quantity and quality)?
+    3. Q3: What are the songs that have been released for a long time but are still heard by many people at the present time?
+    4. Q4: Question 4: For each song length, what is the average popularity score of the songs?
 
-<!-- 1. Cleaning the data
-   1. Hava a quick look on the data
-   2. Drop rows with missing values
-   3. Add continent column matching the country name
-2. Visualize related countries & cities
-3. Understanding the data
-   1. Q1. List 20 cities in Europe that had lowest average temperature in December 2021.
-   2. Q2. Show average temperature of one city in Vietnam in months
-   3. Q3. Is there any change in average temperature in Tokyo during the time that the data was recording ?
-   4. Q4. Which are ideal coastal cities for surfing ? -->
+# Data source
 
-## Data source
+| Column                 | Meaning                                        |
+| ---------------------- | ---------------------------------------------- |
+| **id**                 | ID of song                                     |
+| **name**               | Song name                                      |
+| **artist**             | Artist                                         |
+| **artist_followers**   | Number of follwers of artist                   |
+| **artist_genres**      | Main genres of artist                          |
+| **album**              | The album contains the song                    |
+| **release_date**       | Release date                                   |
+| **album_total_tracks** | Number of songs of the album                   |
+| **duration**           | Duration (ms)                                  |
+| **explicit**           | Whether the song is inappropriate for children |
+| **popularity**         | Popularity on scale from 0 to 100              |
 
-<!-- Link dataset: [Historical weather data of 194 country capitals](https://www.kaggle.com/datasets/balabaskar/historical-weather-data-of-all-country-capitals?fbclid=IwAR21Wdo604qhyYh4g_p3j2r22lQIrRBAaNnw0KW2Q5mLz7LDrshPs7fx3kA "kaggle.com")
-Weather is the state of atmosphere at some point which varies in different places around the globe. Analyzing weather data can help us determine the main climate of some regions or gain some useful insights into how the weather of some specific locations have changed over years.
-This dataset comprises the daily weather data recorded in the capital of 194 countries all over the world. The data contains the following columns:
+# Usage
 
-- **date** - weather data recorded date
-- **country** - name of the country
-- **city** - name of the city
-- **Latitude** - latitude value of the city location
-- **Longitude** - longitude value of the city location
-- **tavg** - The average air temperature in °C
-- **tmin** - The minimum air temperature in °C
-- **tmax** - The maximum air temperature in °C
-- **wdir** - The average wind direction in degrees (°)
-- **wspd** - The average wind speed in km/h
-- **pres** - The average sea-level air pressure in hPa
+Everything has been prepared, just go to these Colab file:
 
-According to author, the data is extracted from [Meteostat](https://meteostat.net/en/) through API. -->
+-   [Craw data](https://colab.research.google.com/drive/1bOv9_al3FdaYQh4Luteu9x3iWguxkBIz#scrollTo=nYjHO0p6oWfc "colab")
+-   [Cleaning the data](https://colab.research.google.com/drive/1SiyWgEwAyTCxldTgkGWT2IMSblJ9am0-#scrollTo=8NpuAc1C_An3)
+-   Understand the data:
+    -   [Part 1](https://colab.research.google.com/drive/1ogZBqe-MQmneysn6jHlYwjaQe__cg2DF)
+    -   [Part 2](https://colab.research.google.com/drive/1PmP-e8xaa2jFRLcCe_oMjub9Mz84tqFc#scrollTo=djCHS-KQheri)
 
-## How to use
+# Contributors
 
-<!-- ### 1. Environment
+-   Pham Quoc Hung
+-   Tran Tuan Kiet
 
-- Jupyter Notebook
-- Python-3's standard libraries and:
-  - [x] Numpy
-  - [x] Pandas
-  - [x] Matplotlib
-  - [x] Seaborn
-  - [x] Geopandas
-  - [x] Plotly-express
-  - [x] Pycountry-convert
+# References
 
-### 2. Order of files when running
-
-1. ./CleaningData_Part1.ipynb
-2. ./CleaningData_Part2.ipynb
-3. ./VisualizeCountriesCities.ipynb
-4. ./UnderstandData_Part1.ipynb
-5. ./UnderstandData_Part2.ipynb -->
-
-## Contributors
-
-- Pham Quoc Hung
-- Tran Tuan Kiet
+[Spotify API document](https://developer.spotify.com/documentation/web-api/reference)
