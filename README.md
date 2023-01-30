@@ -33,13 +33,15 @@
 
 # Usage
 
-Everything has been prepared, just go to these Colab file:
+Everything has been prepared, just go to these Colab files:
 
 -   [Craw data](https://colab.research.google.com/drive/1bOv9_al3FdaYQh4Luteu9x3iWguxkBIz#scrollTo=nYjHO0p6oWfc "colab")
 -   [Cleaning the data](https://colab.research.google.com/drive/1SiyWgEwAyTCxldTgkGWT2IMSblJ9am0-#scrollTo=8NpuAc1C_An3)
 -   Understand the data:
     -   [Part 1](https://colab.research.google.com/drive/1ogZBqe-MQmneysn6jHlYwjaQe__cg2DF)
     -   [Part 2](https://colab.research.google.com/drive/1PmP-e8xaa2jFRLcCe_oMjub9Mz84tqFc#scrollTo=djCHS-KQheri)
+
+All of above Colab Files are contained inside this [root folder](https://drive.google.com/drive/folders/18vacvNjWV8bYakc7B6cFGd0yp9iK9fmE?usp=sharing)
 
 # Contributors
 
